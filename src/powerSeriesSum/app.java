@@ -24,7 +24,7 @@ public class app {
     }
     public static double an(double x,double n){
 
-        return (Math.pow(x-4, n+1)/(n+1));
+        return (-1)*(Math.pow(x-4, n+1)/(n+1));
         
     }
 }
