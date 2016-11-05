@@ -20,6 +20,7 @@ public class app {
             System.out.println("an:"+an);
             System.out.println("sum of "+i+" terms: "+sum);
         }
+        System.out.println("sum:"+sum);
     }
     public static double an(double x,double n){
 
